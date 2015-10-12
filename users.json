@@ -3,6 +3,10 @@
     {
       "name": "Henry",
       "resource": "hhirsch/fitness_log_json",
+    },
+    {
+      "name": "Moritz",
+      "resource": "mschwoerer/fitness_log_json",
     }
   ]
 }

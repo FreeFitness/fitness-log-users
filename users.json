@@ -1,12 +1,10 @@
 {
-  "henry": [
-    {
-      "resource": "https://raw.githubusercontent.com/hhirsch/fitness_log_json/master/"
-    }
-  ],
-  "johnwayne": [
-    {
-      "resource": "https://gist.githubusercontent.com/hhirsch/0543e29c3842edeb7ab8619823331bae/raw/35abfe661a9976229d4a3ccff425ccb0e461b2e1/"
-    }
-  ]
+  "henry":
+  {
+    "resource": "https://raw.githubusercontent.com/hhirsch/fitness_log_json/master/"
+  },
+  "johnwayne":
+  {
+    "resource": "https://gist.githubusercontent.com/hhirsch/0543e29c3842edeb7ab8619823331bae/raw/35abfe661a9976229d4a3ccff425ccb0e461b2e1/"
+  }
 }
